@@ -2,10 +2,16 @@
    text-align: center; 
  }
  body {
- 
   background-color: #cccccc;
  }
 
  .banner {
-  width:100% ;
+     width:100% ;
+}
+.benefícios {
+    background-color:#ffffff;
+    padding: 20px; 
+}
+.imagembeneficios {
+    width: 50px;
 }
